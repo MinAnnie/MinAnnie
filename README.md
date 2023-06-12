@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/angie_matiz"><img src="https://api.daily.dev/devcards/2aa5471492a54e76a08022bfa31d9ddc.png?r=8mp" width="400" alt="Angie Matiz's Dev Card"/></a>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
