@@ -1,8 +1,7 @@
 <a href="https://app.daily.dev/angie_matiz"><img src="https://github.com/MinAnnie/MinAnnie/blob/main/devcard.svg" width="400" alt="Angie Matiz's Dev Card"/></a>
-<a href="https://app.daily.dev/angie_matiz"><img src="" width="400" alt="Angie Matiz's Dev Card"/></a>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div> 
   
 
 ### <div align="center">I'm Angie Matiz, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
