@@ -1,7 +1,7 @@
 ### <div align="center">I'm Angie Matiz, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on (Niki bot)[https://github.com/MinAnnie/Niki-bot]
+- 🔭 I’m currently working on [Niki bot](https://github.com/MinAnnie/Niki-bot)
   
 
 - 🌱 I’m currently learning NodeJs 
