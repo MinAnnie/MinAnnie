@@ -1,30 +1,22 @@
-<a href="https://app.daily.dev/angie_matiz"><img src="https://github.com/MinAnnie/MinAnnie/blob/main/devcard.svg" width="400" alt="Angie Matiz's Dev Card"/></a>
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
-  
-
 ### <div align="center">I'm Angie Matiz, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on (Niki bot)[https://github.com/MinAnnie/Niki-bot]
   
 
-- 🌱 I’m currently learning Angular and Springboot  
+- 🌱 I’m currently learning NodeJs 
   
 
-- ❓ Ask me about anything related to Java, Spring Boot, TypeScript, Angular and related technologies  
+- ❓ Ask me about anything related to software development 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -74,13 +66,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/MinAnnie" target="_blank">
+<a href="https://github.com/MinAnnie" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/AngieMatiz6" target="_blank">
+<a href="https://twitter.com/AngieMatiz6" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/angie-matiz/" target="_blank">
+<a href="https://linkedin.com/in/angie-matiz/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -94,12 +86,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -107,18 +93,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MinAnnie&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/https://paypal.me/Annie1808?country.x=CO&locale.x=es_XC" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
