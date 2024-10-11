@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
 - 📫 How to reach me **matizangie6@gmail.com**
-- 
+<h3 align="center">About me</h3>
+I am a passionate full-stack web developer with a strong focus on Angular, Java (Spring Boot), and Dockerized environments. I have two years of experience building and maintaining web applications, working with distributed teams, and delivering high-quality solutions. I'm always eager to learn new technologies, expand my skill set, and solve complex problems. In addition to coding, I enjoy playing video games and contributing to projects that challenge me to grow both personally and professionally.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MTcDEMd2F8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angie-matiz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angiematiz6) 
 
