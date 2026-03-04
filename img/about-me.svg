@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="320">
+  <defs>
+    <style>
+      .kw { fill: #F7C5D5; font-weight: 700; }
+      .var { fill: #B3D9F7; }
+      .str { fill: #F7E4A0; }
+      .prop { fill: #7EE8A2; }
+      .punc { fill: #DDEEFF; }
+      
+      .bg { fill: #0D1117; }
+      .header { fill: #080C13; }
+      .text { font-family: 'JetBrains Mono', Consolas, Monaco, monospace; font-size: 16px; font-weight: 500; }
+      .border { stroke: rgba(130, 190, 255, 0.12); stroke-width: 1.5; }
+    </style>
+  </defs>
+
+  <!-- Background and border -->
+  <rect width="848" height="318" x="1" y="1" rx="12" class="bg border" />
+  
+  <!-- Header bar -->
+  <rect width="848" height="38" x="1" y="1" rx="12" class="header" />
+  <rect width="848" height="19" x="1" y="20" class="header" />
+  <line x1="1" y1="39" x2="849" y2="39" class="border" />
+
+  <!-- Mac Buttons -->
+  <circle cx="20" cy="20" r="6" fill="#FF5F56" />
+  <circle cx="40" cy="20" r="6" fill="#FFBD2E" />
+  <circle cx="60" cy="20" r="6" fill="#27C93F" />
+  
+  <text x="425" y="25" fill="#6e8fa8" class="text" text-anchor="middle" font-size="14">~ / about-me.ts</text>
+
+  <!-- Line Numbers -->
+  <g fill="#253545" class="text" font-size="14" text-anchor="end">
+    <text x="35" y="80">1</text>
+    <text x="35" y="115">2</text>
+    <text x="35" y="150">3</text>
+    <text x="35" y="185">4</text>
+    <text x="35" y="220">5</text>
+    <text x="35" y="255">6</text>
+    <text x="35" y="290">7</text>
+  </g>
+
+  <!-- Code Content -->
+  <g class="text" transform="translate(60, 80)">
+    <text y="0">
+      <tspan class="kw">const</tspan> <tspan class="var">angieMatiz</tspan> <tspan class="punc">=</tspan> <tspan class="punc">{</tspan>
+    </text>
+    <text y="35" dx="20">
+      <tspan class="prop">pronouns</tspan><tspan class="punc">:</tspan> <tspan class="str">"she/her"</tspan><tspan class="punc">,</tspan>
+    </text>
+    <text y="70" dx="20">
+      <tspan class="prop">roles</tspan><tspan class="punc">:</tspan> <tspan class="punc">[</tspan><tspan class="str">"Full Stack Developer"</tspan><tspan class="punc">,</tspan> <tspan class="str">"Software Engineer"</tspan><tspan class="punc">],</tspan>
+    </text>
+    <text y="105" dx="20">
+      <tspan class="prop">passions</tspan><tspan class="punc">:</tspan> <tspan class="punc">[</tspan><tspan class="str">"Kawaii Aesthetics 🌸"</tspan><tspan class="punc">,</tspan> <tspan class="str">"Clean Code 💻"</tspan><tspan class="punc">,</tspan> <tspan class="str">"AI Integrations 🤖"</tspan><tspan class="punc">],</tspan>
+    </text>
+    <text y="140" dx="20">
+      <tspan class="prop">currentFocus</tspan><tspan class="punc">:</tspan> <tspan class="str">"Building beautiful experiences"</tspan><tspan class="punc">,</tspan>
+    </text>
+    <text y="175" dx="20">
+      <tspan class="prop">portfolio</tspan><tspan class="punc">:</tspan> <tspan class="str">"https://angiematiz.tech"</tspan>
+    </text>
+    <text y="210">
+      <tspan class="punc">};</tspan>
+    </text>
+  </g>
+</svg>
