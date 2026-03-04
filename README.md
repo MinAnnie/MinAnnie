@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./img/main.gif" alt="Angie's Profile Banner" width="100%" />
+  <img src="./img/main.gif" alt="Angie's Profile Banner" width="60%" />
 </div>
 
 # 🌸 Hi there, I'm Angie Matiz! 
